@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeel Gor</h1>
-<h3 align="center">Trainee Full Stack Developer | Computer Engineering Student | Passionate About Coding & Technology</h3>
+<h3 align="center">Full Stack Developer | Passionate About Coding & Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeelgor" alt="jeelgor" /></a> </p>
 
